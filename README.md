@@ -1,6 +1,6 @@
 # <p align="center">🐍SnakeGame🐍</p>
 <p 
-   align="center"><img src="https://user-images.githubusercontent.com/90516828/189088396-c19d9323-4d86-47e9-81d0-5f69e7a78830.jpg" width="450">
+   align="center"><img src="https://user-images.githubusercontent.com/90516828/189088396-c19d9323-4d86-47e9-81d0-5f69e7a78830.jpg" width="600">
 </p>
 
 ## Overview👀
