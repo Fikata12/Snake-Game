@@ -63,8 +63,9 @@ namespace SnakeGame.Core
         }
         private void StopGame()
         {
-            Console.SetCursorPosition(20, 10);
+            Console.SetCursorPosition(25, 10);
             Console.Write("Game over!");
+            Console.SetCursorPosition(0, 21);
             Environment.Exit(0);
         }
         private void InitializeDirections()
