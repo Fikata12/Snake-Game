@@ -15,6 +15,7 @@
 
         public static void CustomizeConsole()
         {
+            Console.Title = "SnakeGame";
             Console.OutputEncoding = Encoding.Unicode;
             Console.SetWindowSize(110, 30);
             //ShowWindow(ThisConsole, MAXIMIZE); Uncomment if you want Fullscreen on run
