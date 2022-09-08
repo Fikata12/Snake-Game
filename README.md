@@ -2,6 +2,7 @@
 <p 
    align="center"><img src="https://user-images.githubusercontent.com/90516828/189088396-c19d9323-4d86-47e9-81d0-5f69e7a78830.jpg" width="450">
 </p>
+
 ## Overview👀
   This is simple Console game where you have to navigate the snake, by using the arrow keys, to reach and eat the food, which increses its length and speed, while avoiding making it "bite" its tail or hit a wall. 
 ## Food😋
