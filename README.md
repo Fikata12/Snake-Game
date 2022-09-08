@@ -4,7 +4,7 @@
 </p>
 
 ## Overview👀
-  #### This is simple Console game where you have to navigate the snake, by using the arrow keys, to reach and eat the food, which increses its length and speed, while avoiding making it "bite" its tail or hit a wall. 
+  ### This is simple Console game where you have to navigate the snake, by using the arrow keys, to reach and eat the food, which increses its length and speed, while avoiding making it "bite" its tail or hit a wall. 
 ## Food😋
 The food is in three different types: 
 - Asterisk 
