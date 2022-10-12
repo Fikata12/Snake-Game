@@ -20,4 +20,4 @@ If you make the snake “bite” its tail or hit a wall you lose and the followi
 ![2](https://user-images.githubusercontent.com/90516828/189088376-a18e3541-632e-4563-95dd-45eb765b718f.png)
 ![3](https://user-images.githubusercontent.com/90516828/189088381-5f80e34c-4d9d-4757-9bb9-2e14830cf294.png)
 ![4](https://user-images.githubusercontent.com/90516828/189088384-2b336f0c-f4ee-470f-97eb-5c0ab2e35749.png)
-![5](https://user-images.githubusercontent.com/90516828/189088388-17213f64-5066-4cc4-94d7-dc253d0017af.png)
+![5](https://user-images.githubusercontent.com/90516828/195416007-5dde646b-5a98-41bf-bfe5-503d874c5b75.png)
